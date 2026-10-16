@@ -9,7 +9,7 @@ I like connecting engineering decisions to business needs, prototyping ideas qui
 - **Architecture and platforms:** distributed systems, microservices, cloud-native design, API and platform design, architecture decision records, observability
 - **Cloud:** AWS (serverless, migration), Azure, CI/CD, Docker, cost and sustainability practices
 - **GenAI:** retrieval-augmented generation (RAG), LLM observability and evaluation, document processing, AI-assisted software development
-- **Foundations:** C/C++, Python, Java; cloud-native, distributed systems, iot, embedded and real-time software
+- **Foundations:** C/C++, Python, Java; cloud-native, distributed systems, IoT, embedded and real-time software
 
 ## What's in my repositories
 
